@@ -1,5 +1,5 @@
 //Number guessing game
-package BaiscPractice.GuessTheNumber;
+package GuessTheNumber;
 
 import java.util.Scanner;
 import java.util.Random;
