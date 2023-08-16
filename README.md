@@ -1,6 +1,6 @@
 # Java Mini Games Collection
 
-Welcome to the **Java Mini Games Collection**, a set of interactive Java programs that offer engaging entertainment and practical concepts. This collection includes three intriguing games and a practical online library management system.
+Welcome to the **Java Mini Games Collection**, a set of interactive Java programs that offer engaging entertainment and practical concepts. This collection includes two games and a practical online library management system.
 
 ## Games Included
 
